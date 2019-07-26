@@ -1,1 +1,29 @@
-<h1>hello</h1>
+---
+layout: default
+pagination:
+  enabled: true
+---
+<!-- The main content area -->
+<div class="intro">
+  Crafting digital experiences that <br>
+  help user.
+</div>
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+      {% for post in site.posts %}
+        {% include post-card.html %}
+      {% endfor %}
+      
+    </div>
+  </div>
+
+  {% include pagination.html %}
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+      $('.header__list li:first-child').addClass("active");
+  });
+</script>

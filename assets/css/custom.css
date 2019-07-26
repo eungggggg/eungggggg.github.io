@@ -1,0 +1,111 @@
+html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdown{
+	font-family: "Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif,"Source Sans Pro",sans-serif !important;
+	line-height: 1.6;
+}
+
+::selection {    
+    background: #3562ff;
+}
+
+/* header */
+.header{
+	border: none;
+	box-shadow: none;
+	padding: 3em 8vw;
+	background-color: white;
+	color: #000;
+}
+
+.intro{
+	padding: 1em 8vw;
+	font-size: 3em;
+	font-weight: bold;
+}
+@media (max-width: 768px){
+	.intro{
+		font-size: 2.5em;
+	}
+}
+
+.header__title{
+	font-size: 28px;
+}
+
+.header__title:hover{
+	color: #3562ff;
+}
+
+.header__list>*{
+	font-size: 1em;
+}
+
+.header__list li *{
+	transition: color .5s;
+}
+
+.header__list li.active a, .header__list li:hover *{
+	color: #3562ff;
+	display: block;
+}
+
+/* main */
+main{
+	margin-top: 6em;
+}
+
+.posts__post{
+	padding: 1em 1em 0 1em;
+}
+
+.post__content{
+	border-top: 0;
+}
+
+.about{
+	padding: 2em 8vw;
+}
+
+.grid-xlarge, #markdown p img{
+	width: 100% !important;
+}
+
+@media (min-width: 768px){
+	.grid-xlarge{
+		padding: 0 1em;
+	}
+}
+
+#markdown br{
+	display: block;
+}
+
+/* footer */
+.footer{
+	border: none;
+	box-shadow: none;
+	padding: 0 8vw 4em 8vw;
+	background-color: white;
+	color: #000;
+}
+.footer__container{
+	margin: 0;
+}
+
+.footer__container ul{
+	list-style: none;
+	padding: 0;
+}
+
+.footer__container ul a{
+	color: #000;
+	text-decoration: underline;
+	font-size: 1.5em;
+}
+
+.copyright{
+	text-align: right;
+	color: #ced4da;
+	margin-top: -1.2rem;
+	font-size: 0.9rem;
+}
+

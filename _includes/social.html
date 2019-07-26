@@ -1,0 +1,7 @@
+{% if site.social %}
+  <ul>
+    {% for social in site.social %}
+      <li><a href="{{ social['url'] }}" target="_blank">{{ social['name'] }}</i></a></li>
+    {% endfor %}
+  </ul>
+{% endif %}

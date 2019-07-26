@@ -1,3 +1,0 @@
-User-agent: *
-Allow:/
-Sitemap: https://eungggggg.github.io/sitemap.xml

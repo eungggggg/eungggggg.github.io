@@ -11,7 +11,15 @@ tags:
 ---
 
 
-![pinspot01](/assets/images/pinspot.gif)
+![halo01](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8707de55958187.5be63e2f79c4e.png)
+
+![halo02](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7e650c55958187.599c584f15d8d.png)
+
+![halo03](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4bc33b55958187.5be63e2f7a1ba.png)
+
+![halo04](https://mir-s3-cdn-cf.behance.net/project_modules/disp/20da0755958187.599ad4f55e5c1.gif)
+
+![pinspot01](https://mir-s3-cdn-cf.behance.net/project_modules/disp/a03a8355958187.599ad967b487b.gif)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -19,13 +27,3 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![pinspot01](/assets/images/pinspot01.gif)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-

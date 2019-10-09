@@ -118,15 +118,15 @@ main{
 	max-width: 1400px;
 	padding: 0 3vw
 }
-#markdown .halo{
+.halo{
 	background-color: #1c273d;
 	text-align: center;
 }
 
-#markdown .halo img{
+.halo img{
 	margin: 0;
 	display: inline-block;
 }
-#markdown .halo .img_interaction{
+.halo .img_interaction{
 	margin: 40px 0 120px 0;
 }

@@ -118,9 +118,17 @@ main{
 	max-width: 1400px;
 	padding: 0 3vw
 }
+
+
+.work{
+	text-align: center;
+	padding-bottom: 20vw;
+}
+.work img{
+	max-width: 1200px;
+}
 .halo{
 	background-color: #1c273d;
-	text-align: center;
 }
 
 .halo img{
@@ -129,4 +137,8 @@ main{
 }
 .halo .img_interaction{
 	margin: 40px 0 120px 0;
+}
+
+.pinspot{
+	background-color: #e7edf0;
 }

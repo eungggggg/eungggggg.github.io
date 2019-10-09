@@ -122,8 +122,10 @@ main{
 
 .work{
 	text-align: center;
+	margin-bottom: 40px;
+}
+.work>div{
 	padding-bottom: 20vw;
-	margin-bottom: 20vw;
 }
 .work img{
 	max-width: 1200px;

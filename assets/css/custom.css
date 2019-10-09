@@ -116,6 +116,9 @@ main{
 .post .grid{
 	width: 100%;
 	max-width: 1400px;
-	padding: 0 6vw
+	padding: 0 3vw
+}
+#markdown .halo img{
+	margin: 0;
 }
 
